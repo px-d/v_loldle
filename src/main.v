@@ -166,7 +166,11 @@ fn (a App) find_champ(name string) !Champion {
 }
 
 fn load_champs() []Champion {
-	js_str := os.read_file('/usr/local/bin/src/champs.json') or { '{}' }
+	config_dir := os.config_dir() or { 'NoPath' }
+	if config_dir == 'NoPath' {
+		error('Something went wrong retrieving your config directory.')
+	}
+	js_str := os.read_file('${config_dir}/Loldle/champs.json') or { '{}' }
 	if js_str == '{}' {
 		error('Champs.json not found. Follow github instructions!')
 	}
