@@ -55,7 +55,7 @@ fn main() {
 		result := app.guess(input)
 
 		if input.to_lower() == 'end' {
-			println('The Champion was ${app.to_guess.name}.')
+			println('The Champion was ${term.red(app.to_guess.name)}.')
 			break
 		}
 
@@ -83,7 +83,6 @@ fn main() {
 
 fn (a App) print_guessed() {
 	term.clear()
-
 	pr(blue, 'Name')
 	pr(blue, 'Gender')
 	pr(blue, 'Lanes')
@@ -141,6 +140,9 @@ fn pr_arr(guess []string, a []string) {
 }
 
 fn (mut a App) guess(input string) GuessResult {
+	if input == '' {
+		return .not_found
+	}
 	champ := a.find_champ(input) or { return .not_found }
 
 	if a.to_guess.name == champ.name {
@@ -165,6 +167,9 @@ fn (a App) find_champ(name string) !Champion {
 
 fn load_champs() []Champion {
 	js_str := os.read_file('/usr/local/bin/src/champs.json') or { '{}' }
+	if js_str == '{}' {
+		error('Champs.json not found. Follow github instructions!')
+	}
 	champs := json.decode([]Champion, js_str) or { [] }
 	return champs
 }
