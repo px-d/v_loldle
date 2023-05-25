@@ -1593,6 +1593,7 @@
         "species": "Human",
         "region": "Ixtal",
         "range_type": [
+            "Melee",
             "Ranged"
         ],
         "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nidalee.png",
@@ -2983,7 +2984,8 @@
             "Mage"
         ],
         "lanes": [
-            "Middle"
+            "Middle",
+            "Bottom"
         ],
         "release_date": 2012,
         "species": "Yordle",
@@ -3050,6 +3052,24 @@
         ],
         "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Zyra.png",
         "gender": "Female",
+        "resource": "Mana"
+    },
+    {
+        "name": "Milio",
+        "roles": [
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "release_date": 2023,
+        "species": "Human",
+        "region": "Ixtal",
+        "range_type": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg",
+        "gender": "Male",
         "resource": "Mana"
     }
 ]

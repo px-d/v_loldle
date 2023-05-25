@@ -5,8 +5,6 @@ import json
 import term
 import rand
 
-
-
 struct Champion {
 	name         string
 	roles        []string
@@ -20,15 +18,13 @@ struct Champion {
 	resource     string
 }
 
-const green = '\033[92m'
-
-const yellow = '\033[93m'
-
-const red = '\033[91m'
-
-const end = '\033[0m'
-
-const blue = '\033[94m'
+const (
+	green  = '\033[92m'
+	yellow = '\033[93m'
+	red    = '\033[91m'
+	end    = '\033[0m'
+	blue   = '\033[94m'
+)
 
 enum GuessResult {
 	registered
@@ -45,6 +41,7 @@ mut:
 }
 
 fn main() {
+	term.clear()
 	all_champs := load_champs()
 	mut app := &App{
 		all_champs: all_champs
@@ -167,7 +164,7 @@ fn (a App) find_champ(name string) !Champion {
 }
 
 fn load_champs() []Champion {
-	js_str := os.read_file('/usr/local/bin/src/champs.json') or { "{}" }
+	js_str := os.read_file('/usr/local/bin/src/champs.json') or { '{}' }
 	champs := json.decode([]Champion, js_str) or { [] }
 	return champs
 }
