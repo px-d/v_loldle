@@ -9,3 +9,9 @@ Build with `v .`
 Windows: `C:\Users\<USERNAME>\AppData\Roaming\Loldle\champs.json`
 
 Mac: `/Users/<USERNAME>/Library/Application Support/Loldle/champs.json`
+
+### 3. Start the game
+_Navigate to the loldle location or create an alias_
+
+Windows: `loldle.exe`<br>
+Mac: `./loldle`
