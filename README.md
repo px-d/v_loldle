@@ -1,4 +1,5 @@
 # Loldle written in V
+_for using in your console_
 
 Build with `v .`
 
