@@ -1,0 +1,2892 @@
+[
+    {
+        "name": "Aatrox",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2013,
+        "species": "Darkin",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Aatrox.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Ahri",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2011,
+        "species": "Vastayan",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ahri.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Akali",
+        "roles": [
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle",
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Akali.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Akshan",
+        "roles": [
+            "Assassin",
+            "Marksman"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2021,
+        "species": "Human",
+        "region": "Shurima",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Akshan.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Alistar",
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Minotaur",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Alistar.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Amumu",
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Unknown",
+        "region": "Shurima",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Amumu.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Anivia",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Spirit God",
+        "region": "Freljord",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Anivia.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Annie",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Annie.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Aphelios",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2019,
+        "species": "Human",
+        "region": "Targon",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Aphelios.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Ashe",
+        "roles": [
+            "Marksman",
+            "Support"
+        ],
+        "lanes": [
+            "Support",
+            "Bottom"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ashe.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Aurelion Sol",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2016,
+        "species": "Celestial",
+        "region": "Targon",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/AurelionSol.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Azir",
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2014,
+        "species": "God-Warrior",
+        "region": "Shurima",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Azir.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Bard",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2015,
+        "species": "Celestial",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Bard.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Bel'Veth",
+        "roles": [
+            "Fighter"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2022,
+        "species": "Voidborn",
+        "region": "Void",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/12.11.1/img/champion/Belveth.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Blitzcrank",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Golem",
+        "region": "Zaun",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Blitzcrank.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Brand",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Brand.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Braum",
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2014,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Braum.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Caitlyn",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Piltover",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Caitlyn.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Camille",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2016,
+        "species": "Human",
+        "region": "Piltover",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Camille.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Cassiopeia",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Cassiopeia.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Cho'Gath",
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Voidborn",
+        "region": "Void",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Chogath.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Corki",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Yordle",
+        "region": "Bandle City",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Corki.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Darius",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Darius.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Diana",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Aspect Host",
+        "region": "Targon",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Diana.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Dr. Mundo",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/DrMundo.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Draven",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Draven.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Ekko",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle",
+            "Middle"
+        ],
+        "releaseDate": 2015,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ekko.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Elise",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Elise.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Evelynn",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Demon",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Evelynn.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Ezreal",
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Piltover",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ezreal.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Fiddlesticks",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Demon",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Fiddlesticks.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Fiora",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Fiora.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Fizz",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2011,
+        "species": "Yordle",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Fizz.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Galio",
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Golem",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Galio.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Gangplank",
+        "roles": [
+            "Fighter"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Gangplank.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Garen",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Garen.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Gnar",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2014,
+        "species": "Yordle",
+        "region": "Freljord",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Gnar.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Gragas",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Gragas.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Graves",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Graves.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Gwen",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2021,
+        "species": "Human",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Gwen.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Hecarim",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Wraith",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Hecarim.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Heimerdinger",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Yordle",
+        "region": "Piltover",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Heimerdinger.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Illaoi",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2015,
+        "species": "Human",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Illaoi.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Irelia",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle",
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Irelia.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Ivern",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2016,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ivern.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Janna",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Spirit God",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Janna.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Jarvan IV",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/JarvanIV.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Jax",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Unknown",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Jax.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Jayce",
+        "roles": [
+            "Fighter",
+            "Marksman"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Piltover",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Jayce.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Jhin",
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2016,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Jhin.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Jinx",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2013,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Jinx.png",
+        "gender": "Female"
+    },
+    {
+        "name": "K'Sante",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2022,
+        "species": "Human",
+        "region": "Shurima",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/12.21.1/img/champion/KSante.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Kai'Sa",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2018,
+        "species": "Human",
+        "region": "Void",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kaisa.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Kalista",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2014,
+        "species": "Wraith",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kalista.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Karma",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Karma.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Karthus",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Wraith",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Karthus.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Kassadin",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Void",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kassadin.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Katarina",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Katarina.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Kayle",
+        "roles": [
+            "Fighter",
+            "Support"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Targon",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kayle.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Kayn",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2017,
+        "species": "Darkin",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kayn.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Kennen",
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Yordle",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kennen.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Kha'Zix",
+        "roles": [
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Voidborn",
+        "region": "Void",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Khazix.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Kindred",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2015,
+        "species": "Spirit God",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kindred.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Kled",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2016,
+        "species": "Yordle",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Kled.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Kog'Maw",
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2010,
+        "species": "Voidborn",
+        "region": "Void",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/KogMaw.png",
+        "gender": "Male"
+    },
+    {
+        "name": "LeBlanc",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Leblanc.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Lee Sin",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/LeeSin.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Leona",
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2011,
+        "species": "Aspect Host",
+        "region": "Targon",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Leona.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Lillia",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2020,
+        "species": "Spirit",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Lillia.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Lissandra",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2013,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Lissandra.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Lucian",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2013,
+        "species": "Human",
+        "region": "Blessed Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Lucian.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Lulu",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2012,
+        "species": "Yordle",
+        "region": "Bandle City",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Lulu.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Lux",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support",
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Lux.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Malphite",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Golem",
+        "region": "Ixtal",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Malphite.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Malzahar",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Void",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Malzahar.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Maokai",
+        "roles": [
+            "Tank",
+            "Mage"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2011,
+        "species": "Spirit",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Maokai.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Master Yi",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/MasterYi.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Miss Fortune",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/MissFortune.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Mordekaiser",
+        "roles": [
+            "Fighter"
+        ],
+        "lanes": [
+            "Jungle",
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Revenant",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Mordekaiser.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Morgana",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Targon",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Morgana.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Nami",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2012,
+        "species": "Vastayan",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nami.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Nasus",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "God-Warrior",
+        "region": "Shurima",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nasus.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Nautilus",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2012,
+        "species": "Revenant",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nautilus.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Neeko",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2018,
+        "species": "Vastayan",
+        "region": "Ixtal",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Neeko.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Nidalee",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Ixtal",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nidalee.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Nilah",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2022,
+        "species": "Human",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/12.13.1/img/champion/Nilah.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Nocturne",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Demon",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nocturne.png",
+        "gender": "Unknown"
+    },
+    {
+        "name": "Nunu & Willump",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Nunu.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Olaf",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Olaf.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Orianna",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2011,
+        "species": "Golem",
+        "region": "Piltover",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Orianna.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Ornn",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2017,
+        "species": "Spirit God",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ornn.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Pantheon",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2010,
+        "species": "Aspect Host",
+        "region": "Targon",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Pantheon.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Poppy",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2010,
+        "species": "Yordle",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Poppy.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Pyke",
+        "roles": [
+            "Assassin",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2018,
+        "species": "Revenant",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Pyke.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Qiyana",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2019,
+        "species": "Human",
+        "region": "Ixtal",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Qiyana.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Quinn",
+        "roles": [
+            "Assassin",
+            "Marksman"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2013,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Quinn.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Rakan",
+        "roles": [
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2017,
+        "species": "Vastayan",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Rakan.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Rammus",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Unknown",
+        "region": "Shurima",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Rammus.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Rek'Sai",
+        "roles": [
+            "Fighter"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2014,
+        "species": "Voidborn",
+        "region": "Void",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/RekSai.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Rell",
+        "roles": [
+            "Tank"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2020,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Rell.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Renata Glasc",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2022,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/12.7.1/img/champion/Renata.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Renekton",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2011,
+        "species": "God-Warrior",
+        "region": "Shurima",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Renekton.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Rengar",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Vastayan",
+        "region": "Ixtal",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Rengar.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Riven",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Riven.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Rumble",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle",
+            "Top"
+        ],
+        "releaseDate": 2011,
+        "species": "Yordle",
+        "region": "Bandle City",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Rumble.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Ryze",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ryze.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Samira",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2020,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Samira.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Sejuani",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Sejuani.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Senna",
+        "roles": [
+            "Marksman",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2019,
+        "species": "Human",
+        "region": "Blessed Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Senna.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Seraphine",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2020,
+        "species": "Human",
+        "region": "Piltover",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Seraphine.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Sett",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2020,
+        "species": "Vastayan",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Sett.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Shaco",
+        "roles": [
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Spirit",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Shaco.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Shen",
+        "roles": [
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Shen.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Shyvana",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Terrestrial Dragon",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Shyvana.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Singed",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Singed.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Sion",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Revenant",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Sion.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Sivir",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Shurima",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Sivir.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Skarner",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Brackern",
+        "region": "Shurima",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Skarner.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Sona",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Sona.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Soraka",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Celestial",
+        "region": "Targon",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Soraka.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Swain",
+        "roles": [
+            "Fighter",
+            "Mage"
+        ],
+        "lanes": [
+            "Support",
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Swain.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Sylas",
+        "roles": [
+            "Assassin",
+            "Mage"
+        ],
+        "lanes": [
+            "Jungle",
+            "Middle"
+        ],
+        "releaseDate": 2019,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Sylas.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Syndra",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Syndra.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Tahm Kench",
+        "roles": [
+            "Tank",
+            "Support"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2015,
+        "species": "Demon",
+        "region": "Runeterra",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/TahmKench.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Taliyah",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Jungle",
+            "Middle"
+        ],
+        "releaseDate": 2016,
+        "species": "Human",
+        "region": "Shurima",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Taliyah.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Talon",
+        "roles": [
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Talon.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Taric",
+        "roles": [
+            "Fighter",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Aspect Host",
+        "region": "Targon",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Taric.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Teemo",
+        "roles": [
+            "Assassin",
+            "Marksman"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Yordle",
+        "region": "Bandle City",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Teemo.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Thresh",
+        "roles": [
+            "Fighter",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2013,
+        "species": "Wraith",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Thresh.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Tristana",
+        "roles": [
+            "Assassin",
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2009,
+        "species": "Yordle",
+        "region": "Bandle City",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Tristana.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Trundle",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2010,
+        "species": "Troll",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Trundle.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Tryndamere",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Tryndamere.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Twisted Fate",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Bilgewater",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/TwistedFate.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Twitch",
+        "roles": [
+            "Assassin",
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2009,
+        "species": "Plague Rat",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Twitch.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Udyr",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/12.17.1/img/champion/Udyr.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Urgot",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Urgot.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Varus",
+        "roles": [
+            "Mage",
+            "Marksman"
+        ],
+        "lanes": [
+            "Middle",
+            "Bottom"
+        ],
+        "releaseDate": 2012,
+        "species": "Darkin",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Varus.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Vayne",
+        "roles": [
+            "Assassin",
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Vayne.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Veigar",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2009,
+        "species": "Yordle",
+        "region": "Bandle City",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Veigar.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Vel'Koz",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2014,
+        "species": "Voidborn",
+        "region": "Void",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Velkoz.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Vex",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2021,
+        "species": "Yordle",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Vex.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Vi",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Piltover",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Vi.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Viego",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2021,
+        "species": "Wraith",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Viego.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Viktor",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Viktor.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Vladimir",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Noxus",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Vladimir.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Volibear",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle",
+            "Top"
+        ],
+        "releaseDate": 2011,
+        "species": "Spirit God",
+        "region": "Freljord",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Volibear.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Warwick",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Warwick.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Wukong",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2011,
+        "species": "Vastayan",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/MonkeyKing.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Xayah",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2017,
+        "species": "Vastayan",
+        "region": "Ionia",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Xayah.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Xerath",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2011,
+        "species": "Baccai",
+        "region": "Shurima",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Xerath.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Xin Zhao",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2010,
+        "species": "Human",
+        "region": "Demacia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/XinZhao.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Yasuo",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle",
+            "Top"
+        ],
+        "releaseDate": 2013,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Yasuo.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Yone",
+        "roles": [
+            "Fighter",
+            "Assassin"
+        ],
+        "lanes": [
+            "Middle",
+            "Top"
+        ],
+        "releaseDate": 2020,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Yone.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Yorick",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Top"
+        ],
+        "releaseDate": 2011,
+        "species": "Human",
+        "region": "Shadow Isles",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Yorick.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Yuumi",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2019,
+        "species": "Cat",
+        "region": "Bandle City",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Yuumi.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Zac",
+        "roles": [
+            "Fighter",
+            "Tank"
+        ],
+        "lanes": [
+            "Jungle"
+        ],
+        "releaseDate": 2013,
+        "species": "Golem",
+        "region": "Zaun",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Zac.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Zed",
+        "roles": [
+            "Assassin"
+        ],
+        "lanes": [
+            "Jungle",
+            "Middle"
+        ],
+        "releaseDate": 2012,
+        "species": "Human",
+        "region": "Ionia",
+        "rangeType": [
+            "Melee"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Zed.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Zeri",
+        "roles": [
+            "Marksman"
+        ],
+        "lanes": [
+            "Bottom"
+        ],
+        "releaseDate": 2022,
+        "species": "Human",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/12.7.1/img/champion/Zeri.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Ziggs",
+        "roles": [
+            "Mage"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2012,
+        "species": "Yordle",
+        "region": "Zaun",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Ziggs.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Zilean",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2009,
+        "species": "Human",
+        "region": "Runeterra",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Zilean.png",
+        "gender": "Male"
+    },
+    {
+        "name": "Zoe",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Middle"
+        ],
+        "releaseDate": 2017,
+        "species": "Aspect Host",
+        "region": "Targon",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Zoe.png",
+        "gender": "Female"
+    },
+    {
+        "name": "Zyra",
+        "roles": [
+            "Mage",
+            "Support"
+        ],
+        "lanes": [
+            "Support"
+        ],
+        "releaseDate": 2012,
+        "species": "Unknown",
+        "region": "Ixtal",
+        "rangeType": [
+            "Ranged"
+        ],
+        "portrait": "https://ddragon.leagueoflegends.com/cdn/11.23.1/img/champion/Zyra.png",
+        "gender": "Female"
+    }
+]
