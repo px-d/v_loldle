@@ -15,3 +15,7 @@ _Navigate to the loldle location or create an alias_
 
 Windows: `loldle.exe`<br>
 Mac: `./loldle`
+
+
+## Optional
+Add Loldle to your path so you can just start it by typing `loldle`
