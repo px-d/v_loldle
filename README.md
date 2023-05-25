@@ -7,3 +7,4 @@ Build with `v .`
 1. `mkdir /usr/local/bin/src`
 2. `mv loldle /usr/local/bin`
 3. `cp src/champs.json /usr/local/bin/src`
+4. `chmod +x loldle`
