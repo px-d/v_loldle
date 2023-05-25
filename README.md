@@ -3,8 +3,8 @@ _for using in your console_
 
 Build with `v .`
 
-## other steps
-1. `mkdir /usr/local/bin/src`
-2. `mv loldle /usr/local/bin`
-3. `cp src/champs.json /usr/local/bin/src`
-4. `chmod +x loldle`
+## Setup:
+### 1. Download latest release
+### 2. Copy champs.json into one of the following directories
+Windows: `C:\Users\<USERNAME>\AppData\Roaming\Loldle\champs.json`
+Mac: `/Users/<USERNAME>/Library/Application Support/Loldle/champs.json`
